@@ -1,17 +1,16 @@
-## Hi there 👋
-### One day i will fill this place
+# Hello, Welcome to My GitHub Profile! 👋
 
-<!--
-**Bukalee/Bukalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##This area is still in progress
 
-Here are some ideas to get you started:
+This repo serves as a guide to learn about me. I'm a coding enthusiast, open-source advocate, and always open to learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills and Tools
+- C
+- Python
+- VS Code
+
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/mehmet-emin-kaya-974390242/)
+- [Twitter](https://twitter.com/akaitumek)
+
+See you around! 😊
