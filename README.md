@@ -1,6 +1,6 @@
 # Hello, Welcome to My GitHub Profile! 👋
 
-##This area is still in progress
+This area is still in progress
 
 This repo serves as a guide to learn about me. I'm a coding enthusiast, open-source advocate, and always open to learning.
 
