@@ -1,6 +1,7 @@
 # Hello, Welcome to My GitHub Profile! 👋
 
-work in progress
+## Status
+# work in progress 
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/mehmet-emin-kaya-974390242/)
